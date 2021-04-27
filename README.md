@@ -1,5 +1,7 @@
 # ------------------ Solitaire Blackjack ------------------
 
+https://www.iide.cl/img/site/~773/386/blackjack.jpg
+
 ## Objetivo:
 ```
 el objetivo del juego es sumar 21 puntos sin pasarse
