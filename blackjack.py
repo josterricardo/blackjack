@@ -3,6 +3,6 @@
 #Lucio Gutiérrez Román
 #Ricardo Magaña
 
-print('Hola mundo')
-
-print('Cambio de Lucio')
+#Librerias
+import random
+import os
