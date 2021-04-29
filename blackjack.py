@@ -1,8 +1,8 @@
-#Proyecto 1 de IronHack - Data Analytics
-#Presentado por:
-#Lucio Gutiérrez
+# Proyecto 1 de IronHack - Data Analytics
+# Presentado por:
+# Lucio Gutiérrez
 # &
-#Ricardo Magaña
+# Ricardo Magaña
 
 # Head
 import random
